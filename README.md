@@ -11,11 +11,11 @@ A simple game inspired by osu!, built with Python and pygame.
 
 ## Controls
 
--Mouse: Click the circles to score points
--Arrow Keys / W S: Navigate the difficulty menu
--Enter / Space: Select menu option
--ESC: Return to menu during gameplay
--Close window / Select "Exit": Quit the game
+- Mouse: Click the circles to score points
+- Arrow Keys / W S: Navigate the difficulty menu
+- Enter / Space: Select menu option
+- ESC: Return to menu during gameplay
+- Close window / Select "Exit": Quit the game
 ---
 
 ## Installation
