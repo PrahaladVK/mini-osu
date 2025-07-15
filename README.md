@@ -22,7 +22,7 @@ A simple game inspired by osu!, built with Python and pygame.
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/yourusername/mini-osu-python.git
+    git clone https://github.com/PrahaladVK/mini-osu-python.git
     cd mini-osu-python
     ```
 
